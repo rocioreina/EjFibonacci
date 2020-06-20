@@ -1,4 +1,4 @@
-package java.com.politecnicomalaga;
+package com.politecnicomalaga;
 
 public class TerminoFibonaci {
 	public int calcular(int termino){
